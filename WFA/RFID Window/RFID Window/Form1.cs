@@ -39,7 +39,6 @@ namespace RFID_Window
             {
                 Debug.WriteLine(s);
                 Debug.WriteLine(UID);
-                Debug.WriteLine(UID.Equals(s));
                 if (UID.Equals(s))
                 {
                     return true;
