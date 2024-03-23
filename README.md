@@ -15,9 +15,7 @@ To get the code:
 5. Make any code edits you want
 
 When ready to push your code:
+
 6. Add/commit with your commit message, and then push your code to your branch (not to main, which is not possible either way)
 7. Create a pull request on the Github Website
 8. Once your code is reviewed and approved, it will be merged to main
-   
-
-
