@@ -16,9 +16,6 @@ namespace RFID_Window
             InitializeComponent();
             port.Open();
         }
-
-        private void label1_Click(object sender, EventArgs e){}
-
         private void port_DataReceived(object sender, System.IO.Ports.SerialDataReceivedEventArgs e)
         {
             string tagID = port.ReadLine();
