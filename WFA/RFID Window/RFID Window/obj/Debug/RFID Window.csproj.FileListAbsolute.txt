@@ -8,3 +8,13 @@ C:\Users\ajfeu\source\repos\RFID Window\RFID Window\obj\Debug\RFID Window.csproj
 C:\Users\ajfeu\source\repos\RFID Window\RFID Window\obj\Debug\RFID Window.csproj.CoreCompileInputs.cache
 C:\Users\ajfeu\source\repos\RFID Window\RFID Window\obj\Debug\RFID Window.exe
 C:\Users\ajfeu\source\repos\RFID Window\RFID Window\obj\Debug\RFID Window.pdb
+C:\Users\ajfeu\OneDrive\Desktop\MelonFire\DateLocus\Programming\DateLocus\WFA\RFID Window\RFID Window\obj\Debug\RFID Window.csproj.AssemblyReference.cache
+C:\Users\ajfeu\OneDrive\Desktop\MelonFire\DateLocus\Programming\DateLocus\WFA\RFID Window\RFID Window\obj\Debug\RFID_Window.Form1.resources
+C:\Users\ajfeu\OneDrive\Desktop\MelonFire\DateLocus\Programming\DateLocus\WFA\RFID Window\RFID Window\obj\Debug\RFID_Window.Properties.Resources.resources
+C:\Users\ajfeu\OneDrive\Desktop\MelonFire\DateLocus\Programming\DateLocus\WFA\RFID Window\RFID Window\obj\Debug\RFID Window.csproj.GenerateResource.cache
+C:\Users\ajfeu\OneDrive\Desktop\MelonFire\DateLocus\Programming\DateLocus\WFA\RFID Window\RFID Window\obj\Debug\RFID Window.csproj.CoreCompileInputs.cache
+C:\Users\ajfeu\OneDrive\Desktop\MelonFire\DateLocus\Programming\DateLocus\WFA\RFID Window\RFID Window\obj\Debug\RFID Window.exe
+C:\Users\ajfeu\OneDrive\Desktop\MelonFire\DateLocus\Programming\DateLocus\WFA\RFID Window\RFID Window\obj\Debug\RFID Window.pdb
+C:\Users\ajfeu\OneDrive\Desktop\MelonFire\DateLocus\Programming\DateLocus\WFA\RFID Window\RFID Window\bin\Debug\RFID Window.exe.config
+C:\Users\ajfeu\OneDrive\Desktop\MelonFire\DateLocus\Programming\DateLocus\WFA\RFID Window\RFID Window\bin\Debug\RFID Window.exe
+C:\Users\ajfeu\OneDrive\Desktop\MelonFire\DateLocus\Programming\DateLocus\WFA\RFID Window\RFID Window\bin\Debug\RFID Window.pdb
