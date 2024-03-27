@@ -7,7 +7,6 @@
 #define SERVO_PINB 6
 #define SERVO_PINPMW 5
 MFRC522 mfrc522(SS_PIN, RST_PIN);   
- //comment
 void setup() 
 {
   Serial.begin(9600);   
@@ -23,13 +22,19 @@ void loop()
     Serial.println("");
     delay(50);
     if(Serial.readString() ='G'){
-
+      driveServo(255);
+      delay(3000);
+      driveServo(0);
+      delay(5000);
+      driveServo(-255);
+      delay(3000);
+      driveServo(0);
     }
   }  
 } 
 
-void driveServo(bool direction, int speed){
-  if(direction){
+void driveServo(int speed){
+  if(speed<0){
     digitalWrite(SERVO_PINA,HIGH);
     digitalWrite(SERVO_PINB,LOW);
   }
@@ -38,11 +43,8 @@ void driveServo(bool direction, int speed){
     digitalWrite(SERVO_PINB,HIGH);
   }
   
-  if(speed>-1&&speed<256){
+  if(speed>-256&&speed<256){
     analogWrite(SERVO_PINPMW,speed);
-  }
-  else{
-    return;
   }
 }
 
