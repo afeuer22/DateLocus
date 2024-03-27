@@ -10,7 +10,7 @@ namespace RFID_Window
     public partial class Form1 : Form
     {
 
-        
+        public Stopwatch watch;
         public Form1()
         {
             InitializeComponent();
@@ -21,14 +21,18 @@ namespace RFID_Window
             string tagID = port.ReadLine();
             Debug.WriteLine(tagID);
             tagID = tagID.Substring(4,8);
-            if (!CheckCard(tagID)) // if UID is not registered
+            watch = Stopwatch.StartNew();
+            if (!CheckCard(tagID)) // if UID is not in file
             {
                 label1.Invoke(new MethodInvoker(delegate { label1.Text = "ACCESS DENIED"; }));
+                while(watch.ElapsedMilliseconds <3000){}   
             }
             else
             { 
                label1.Invoke(new MethodInvoker(delegate { label1.Text = "ACCESS GRANTED"; }));
+               port.Write("G");
             }
+            
         }
         public Boolean CheckCard(string UID)
         {
