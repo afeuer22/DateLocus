@@ -46,9 +46,7 @@ void driveServo(bool direction, int speed){
   }
 }
 
-bool checkCard(MFRC522 card){
-  return (card.PICC_IsNewCardPresent()&&card.PICC_ReadCardSerial()) ;
-}
+bool checkCard(MFRC522 card){return (card.PICC_IsNewCardPresent()&&card.PICC_ReadCardSerial()) ;}
 
 String getCardUID(MFRC522 card){
   String content;

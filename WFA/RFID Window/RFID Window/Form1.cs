@@ -29,6 +29,7 @@ namespace RFID_Window
             { 
                label1.Invoke(new MethodInvoker(delegate { label1.Text = "ACCESS GRANTED"; }));
             }
+            
         }
         public Boolean CheckCard(string UID)
         {
