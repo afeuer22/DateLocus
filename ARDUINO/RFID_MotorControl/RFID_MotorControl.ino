@@ -5,7 +5,6 @@
 #define RST_PIN 9
 #define SERVO_PINA 7
 #define SERVO_PINB 6
-#define SERVO_PINPMW 5
 MFRC522 mfrc522(SS_PIN, RST_PIN);   
 void setup() 
 {
@@ -20,21 +19,21 @@ void loop()
     Serial.print("UID:");
     Serial.print(getCardUID(mfrc522));
     Serial.println("");
-    delay(50);
+    delay(500);
     if(Serial.readString() ='G'){
-      driveServo(255);
+      driveServo(true);
       delay(3000);
-      driveServo(0);
+      stopServo();
       delay(5000);
-      driveServo(-255);
+      driveServo(false);
       delay(3000);
-      driveServo(0);
+      stopServo();
     }
   }  
 } 
 
-void driveServo(int speed){
-  if(speed<0){
+void driveServo(bool direction){
+  if(direction){
     digitalWrite(SERVO_PINA,HIGH);
     digitalWrite(SERVO_PINB,LOW);
   }
@@ -42,10 +41,11 @@ void driveServo(int speed){
     digitalWrite(SERVO_PINA,LOW);
     digitalWrite(SERVO_PINB,HIGH);
   }
-  
-  if(speed>-256&&speed<256){
-    analogWrite(SERVO_PINPMW,speed);
-  }
+}
+
+void stopServo(){
+    digitalWrite(SERVO_PINA,LOW);
+    digitalWrite(SERVO_PINB,LOW);
 }
 
 bool checkCard(MFRC522 card){return (card.PICC_IsNewCardPresent()&&card.PICC_ReadCardSerial()) ;}

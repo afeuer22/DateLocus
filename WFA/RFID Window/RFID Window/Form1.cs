@@ -15,6 +15,7 @@ namespace RFID_Window
         {
             InitializeComponent();
             port.Open();
+            label1.Invoke(new MethodInvoker(delegate { label1.Text = "Scan Card"; }));
         }
         private void port_DataReceived(object sender, System.IO.Ports.SerialDataReceivedEventArgs e)
         {
