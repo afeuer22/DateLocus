@@ -18,3 +18,4 @@ C:\Users\ajfeu\OneDrive\Desktop\MelonFire\DateLocus\Programming\DateLocus\WFA\RF
 C:\Users\ajfeu\OneDrive\Desktop\MelonFire\DateLocus\Programming\DateLocus\WFA\RFID Window\RFID Window\bin\Debug\RFID Window.exe.config
 C:\Users\ajfeu\OneDrive\Desktop\MelonFire\DateLocus\Programming\DateLocus\WFA\RFID Window\RFID Window\bin\Debug\RFID Window.exe
 C:\Users\ajfeu\OneDrive\Desktop\MelonFire\DateLocus\Programming\DateLocus\WFA\RFID Window\RFID Window\bin\Debug\RFID Window.pdb
+C:\Users\ajfeu\OneDrive\Desktop\MelonFire\DateLocus\Programming\DateLocus\WFA\RFID Window\RFID Window\obj\Debug\RFID_Window.Form2.resources
