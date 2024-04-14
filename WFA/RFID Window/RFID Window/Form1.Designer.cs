@@ -60,6 +60,8 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "DOOR ACCESS";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             this.ResumeLayout(false);
 
         }

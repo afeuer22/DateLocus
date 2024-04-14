@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajfeu\\OneDrive\\Desktop\\MelonFire\\DateLocus\\Programming\\DateLocus\\WFA\\RFID Window\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D29201E7-F434-42E7-86A1-E282F802D997}|RFID Window\\RFID Window.csproj|c:\\users\\ajfeu\\onedrive\\desktop\\melonfire\\datelocus\\programming\\datelocus\\wfa\\rfid window\\rfid window\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29201E7-F434-42E7-86A1-E282F802D997}|RFID Window\\RFID Window.csproj|solutionrelative:rfid window\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D29201E7-F434-42E7-86A1-E282F802D997}|RFID Window\\RFID Window.csproj|c:\\users\\ajfeu\\onedrive\\desktop\\melonfire\\datelocus\\programming\\datelocus\\wfa\\rfid window\\rfid window\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29201E7-F434-42E7-86A1-E282F802D997}|RFID Window\\RFID Window.csproj|solutionrelative:rfid window\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D29201E7-F434-42E7-86A1-E282F802D997}|RFID Window\\RFID Window.csproj|c:\\users\\ajfeu\\onedrive\\desktop\\melonfire\\datelocus\\programming\\datelocus\\wfa\\rfid window\\rfid window\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D29201E7-F434-42E7-86A1-E282F802D997}|RFID Window\\RFID Window.csproj|solutionrelative:rfid window\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D29201E7-F434-42E7-86A1-E282F802D997}|RFID Window\\RFID Window.csproj|C:\\Users\\ajfeu\\OneDrive\\Desktop\\MelonFire\\DateLocus\\Programming\\DateLocus\\WFA\\RFID Window\\rfid window\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D29201E7-F434-42E7-86A1-E282F802D997}|RFID Window\\RFID Window.csproj|solutionrelative:rfid window\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D29201E7-F434-42E7-86A1-E282F802D997}|RFID Window\\RFID Window.csproj|c:\\users\\ajfeu\\onedrive\\desktop\\melonfire\\datelocus\\programming\\datelocus\\wfa\\rfid window\\rfid window\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29201E7-F434-42E7-86A1-E282F802D997}|RFID Window\\RFID Window.csproj|solutionrelative:rfid window\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ajfeu\\OneDrive\\Desktop\\MelonFire\\DateLocus\\Programming\\DateLocus\\WFA\\RFID Window\\RFID Window\\Form1.cs",
+              "RelativeDocumentMoniker": "RFID Window\\Form1.cs",
+              "ToolTip": "C:\\Users\\ajfeu\\OneDrive\\Desktop\\MelonFire\\DateLocus\\Programming\\DateLocus\\WFA\\RFID Window\\RFID Window\\Form1.cs",
+              "RelativeToolTip": "RFID Window\\Form1.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T03:51:57.916Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ajfeu\\OneDrive\\Desktop\\MelonFire\\DateLocus\\Programming\\DateLocus\\WFA\\RFID Window\\RFID Window\\Form2.cs",
+              "RelativeDocumentMoniker": "RFID Window\\Form2.cs",
+              "ToolTip": "C:\\Users\\ajfeu\\OneDrive\\Desktop\\MelonFire\\DateLocus\\Programming\\DateLocus\\WFA\\RFID Window\\RFID Window\\Form2.cs [Design]",
+              "RelativeToolTip": "RFID Window\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:48:19.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\ajfeu\\OneDrive\\Desktop\\MelonFire\\DateLocus\\Programming\\DateLocus\\WFA\\RFID Window\\RFID Window\\Form2.cs",
+              "RelativeDocumentMoniker": "RFID Window\\Form2.cs",
+              "ToolTip": "C:\\Users\\ajfeu\\OneDrive\\Desktop\\MelonFire\\DateLocus\\Programming\\DateLocus\\WFA\\RFID Window\\RFID Window\\Form2.cs",
+              "RelativeToolTip": "RFID Window\\Form2.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwCcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:26:14.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajfeu\\OneDrive\\Desktop\\MelonFire\\DateLocus\\Programming\\DateLocus\\WFA\\RFID Window\\RFID Window\\Program.cs",
+              "RelativeDocumentMoniker": "RFID Window\\Program.cs",
+              "ToolTip": "C:\\Users\\ajfeu\\OneDrive\\Desktop\\MelonFire\\DateLocus\\Programming\\DateLocus\\WFA\\RFID Window\\RFID Window\\Program.cs",
+              "RelativeToolTip": "RFID Window\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:02:32.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ajfeu\\OneDrive\\Desktop\\MelonFire\\DateLocus\\Programming\\DateLocus\\WFA\\RFID Window\\RFID Window\\Form1.cs",
+              "RelativeDocumentMoniker": "RFID Window\\Form1.cs",
+              "ToolTip": "C:\\Users\\ajfeu\\OneDrive\\Desktop\\MelonFire\\DateLocus\\Programming\\DateLocus\\WFA\\RFID Window\\RFID Window\\Form1.cs [Design]",
+              "RelativeToolTip": "RFID Window\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T03:51:58.088Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
